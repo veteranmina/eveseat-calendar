@@ -1,5 +1,5 @@
 {
-    "name": "kassie/calendar",
+    "name": "veteranmina/calendar",
     "description": "Calendar plugin for SeAT.",
     "type": "seat-plugin",
     "autoload": {
