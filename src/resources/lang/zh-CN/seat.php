@@ -99,8 +99,8 @@ return [
     'character'       => '角色',
 
     'notification_new_operation'      => '<!channel> :rocket: 一个新的行动被推送！',
-    'notification_edit_operation'     => '<!channel> :pencil2: 一个行动被编辑了！',
-    'notification_cancel_operation'   => '<!channel> :no_entry_sign: 一个行动被取消！',
+    'notification_edit_operation'     => '<!here> :pencil2: 一个行动被编辑了！',
+    'notification_cancel_operation'   => '<!here> :no_entry_sign: 一个行动被取消！',
     'notification_activate_operation' => '<!channel> :white_check_mark: 一个已取消的行动被重新激活了！',
     'notification_ping_operation'     => '<!channel> :bell: ',
     'notification_enable'             => '通知到 Slack',
