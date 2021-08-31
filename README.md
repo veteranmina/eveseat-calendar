@@ -12,10 +12,10 @@ Calendar plugin for EVE SeAT 2.x and 3.x
 * Permissions
 
 # Release
-https://packagist.org/packages/kassie/calendar
+https://packagist.org/packages/veteranmina/calendar
 
 # Installation
-* `composer require kassie/calendar` in the SeAT root directory
+* `composer require veteranmina/calendar` in the SeAT root directory
 * `php artisan vendor:publish --force`
 * `php artisan migrate`
 * `php artisan db:seed --class=Seat\\Kassie\\Calendar\\database\\seeds\\CalendarSettingsTableSeeder`
