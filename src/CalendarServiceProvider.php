@@ -105,7 +105,7 @@ class CalendarServiceProvider extends AbstractSeatPlugin
      */
     public function getPackageRepositoryUrl(): string
     {
-        return 'https://github.com/BenHUET/eveseat-calendar';
+        return 'https://github.com/veteranmina/eveseat-calendar';
     }
 
     /**
@@ -129,6 +129,6 @@ class CalendarServiceProvider extends AbstractSeatPlugin
      */
     public function getPackagistVendorName(): string
     {
-        return 'kassie';
+        return 'veteranmina';
     }
 }

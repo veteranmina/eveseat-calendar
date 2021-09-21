@@ -1,9 +1,9 @@
 # eveseat-calendar
-[![Latest Stable Version](https://img.shields.io/packagist/v/kassie/calendar.svg?style=flat-square)](https://packagist.org/packages/kassie/calendar)
-[![Next Version](https://img.shields.io/packagist/vpre/kassie/calendar.svg?style=flat-square)](https://packagist.org/packages/kassie/calendar)
+[![Latest Stable Version](https://img.shields.io/packagist/v/kassie/calendar.svg?style=flat-square)](https://packagist.org/packages/veteranmina/calendar)
+[![Next Version](https://img.shields.io/packagist/vpre/kassie/calendar.svg?style=flat-square)](https://packagist.org/packages/veteranmina/calendar)
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://raw.githubusercontent.com/warlof/slackbot/master/LICENSE)
 
-Calendar plugin for EVE SeAT 2.x and 3.x
+Calendar plugin for EVE SeAT 4.x
 
 # Features
 * Create/Update/Cancel/Delete/Close & Tag operations
@@ -26,9 +26,9 @@ https://packagist.org/packages/veteranmina/calendar
 Since 1.3.2, the PAP mechanism has been implemented. You need `esi-fleets.read_fleet.v1` into your requested scopes list.
 
 # Feedbacks or support
-@kassie_yvo on eve-seat.slack.com  
-kassie.yvo@gmail.com  
-Kassie Yvo in-game  
+VeritasLuxMea on SeAT Discord
+
+Veritasluxmea Veritas in-game  
 
 If you like this module, consider giving some ISK, I'm space poor.
 
